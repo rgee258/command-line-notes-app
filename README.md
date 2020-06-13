@@ -46,6 +46,6 @@ All notes are stored in a **notes.json** file. If not present, the **notes.json*
 
 Core Modules Used
 -----------------
-[File System](https://nodejs.org/api/fs.html#fs_file_system)
-[Chalk] (https://github.com/chalk/chalk)
-[Yargs] (https://yargs.js.org/)
+- [File System](https://nodejs.org/api/fs.html#fs_file_system)
+- [Chalk](https://github.com/chalk/chalk)
+- [Yargs](https://yargs.js.org/)
