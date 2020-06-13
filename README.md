@@ -11,13 +11,13 @@ Ensure that you have Node.js already installed onto your system prior to anythin
 
 Download the repository contents and add them to the location of your choosing.
 
-Once situated, navigate to the previous directory using the command line and use:
+Once situated, navigate to the directory using the command line and use:
 
 ```bash
 npm install
 ```
 
-Doing so will obtain the necessary dependencies for the application and 
+Doing so will obtain the necessary dependencies for the application.
 
 Usage
 -----
