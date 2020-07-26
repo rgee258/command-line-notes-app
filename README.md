@@ -1,6 +1,6 @@
 # Command Line Notes App
 
-A command line based note taking application built using Node.js as part of lessons for gaining more experience with Node.
+A command line based note taking application built using Node.js as part of The Complete Node.js Developer Course available on Udemy.
 
 This application allows one to read, add, and remove their own created notes directly through the command line.
 
